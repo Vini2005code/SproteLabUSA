@@ -1,0 +1,6 @@
+{
+  "name": "Sprote Lab",
+  "description": "Site de uma página em inglês, português ou ambos para empresas de limpeza nos Estados Unidos por US$ 149.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
